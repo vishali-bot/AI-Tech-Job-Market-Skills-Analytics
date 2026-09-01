@@ -1,0 +1,10 @@
+# Large datasets
+Data/raw/Dataset2.xlsx
+Data/cleaned/Dataset2_Cleaned.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
