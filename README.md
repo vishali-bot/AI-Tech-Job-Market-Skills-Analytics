@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI & Tech Job Market Analysis
 
 MCA mini project by Sribala N. Analyses 12,140 data / AI / tech job postings from the Indian market to find the most demanded skills, the best cities and the salary patterns.
@@ -68,3 +69,6 @@ Then follow `Power BI/Dashboard_Guide.md` to build the dashboard from the two CS
 
 ## Data model
 `jobs` (one row per posting) 1 --- * `job_skills` (one row per posting and skill), joined on `Job_ID`. See `Documentation/Data_Dictionary.md`.
+=======
+# AI-Tech-Job-Market-Skills-Analytics
+>>>>>>> bc34368eb9de918a645ce3ebba32aed5a9574888

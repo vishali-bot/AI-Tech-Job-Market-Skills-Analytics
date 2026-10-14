@@ -1,5 +1,18 @@
+<<<<<<< HEAD
 __pycache__/
 .ipynb_checkpoints/
 .vscode/
 *.pbix.bak
 Data/raw/Dataset2.xlsx
+=======
+# Large datasets
+Data/raw/Dataset2.xlsx
+Data/cleaned/Dataset2_Cleaned.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+>>>>>>> bc34368eb9de918a645ce3ebba32aed5a9574888
